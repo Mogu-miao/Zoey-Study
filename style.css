@@ -1,0 +1,32 @@
+#container {
+    width: 600px;
+}
+#header {
+   background-color: #e99329;
+}
+h1{ 
+    margin-bottom: 0
+}
+#menu {
+    background-color:#a1dce0;
+    height:200px;
+    width:450px;
+    float: left;
+}
+#content {
+    background: #f0f0f0;
+    height: 200px;
+    width: 150px;
+    float: right;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+#footer {
+    background-color: #b36506;
+    clear: both;
+    text-align: center;
+}
+
+.item {
+    color: red;
+}
